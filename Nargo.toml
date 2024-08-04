@@ -1,7 +1,7 @@
 [package]
 name = "ECDH"
 type = "bin"
-authors = ["Foulques"]
-compiler_version = ">=0.30.0"
+authors = ["Foulk"]
+compiler_version = ">=0.31.0"
 
 [dependencies]
