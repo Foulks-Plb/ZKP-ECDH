@@ -13,8 +13,6 @@ This code implements a zero-knowledge proof (ZKP) circuit designed to verify the
 
 # Information
 
-+---------+----------+----------------------+--------------+
 | Package | Function | Expression Width     | ACIR Opcodes |
-+---------+----------+----------------------+--------------+
-| ECDH    | main     | Bounded { width: 4 } | 1592841      |
-+---------+----------+----------------------+--------------+
+|---------|----------|----------------------|--------------|
+| ECDH    | main     | Bounded { width: 4 } | 1,592,841    |
